@@ -1,11 +1,12 @@
 # 2. TV'Box
 * TV'Box｜APP
   + Github：[TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
-  + APP下载：
-	+ 好心的大佬，提供已签名可安装的"最新版APK" (实时更新)
-	+ 有下载安装成功的记得帮大佬按右上角的star星星
-	+ 目前最新版以支援 直播分组、分类筛选 的功能
-	+ [o0HalfLife0o大佬](https://github.com/o0HalfLife0o/TVBoxOSC)
+  + 测试版APK下载：
+	+ 好心的大佬，提供已签名可安装的"最新测试版APK" (实时更新)
+	+ [o0HalfLife0o大佬 Github](https://github.com/o0HalfLife0o/TVBoxOSC)：有下载安装成功的记得帮大佬按右上角的star星星
+	+ [o0HalfLife0o大佬 TG频道](https://t.me/TVBoxOSC)：实时接收来自Github的"最新测试版APK"提醒，直接从TG下载。
+	+ 目前最新测试版已支援 直播分组、分类筛选 的功能
+
 
 ## 配置地址 简易设定流程：
 * 设置 --> 设置其他  --> 配置地址 (底下二选一)
