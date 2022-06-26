@@ -3,7 +3,8 @@
 ## 1. 海阔视界
 * 海阔视界｜APP
   + [APP载点1](https://www.lanzoux.com/u/GoldRiver) / [APP载点2](https://www.lanzoui.com/u/GoldRiver)
-	  + [跨版本升级来了，7.x 磁力云播](https://mp.weixin.qq.com/s/JAN4GW4nVB2VyF4C0jkD_g)
+	  + [更新，云播增加两种格式(FTP云播、电驴云播)](https://mp.weixin.qq.com/s/VQ2yXCcmgQ8xkhZA4m_kHw)
+	  + [跨版本升级来了，7.x (磁力云播、种子云播)](https://mp.weixin.qq.com/s/JAN4GW4nVB2VyF4C0jkD_g)
 	  + [新版本更新](https://mp.weixin.qq.com/s/8Qdfp36yNt1N2ONYsGOPPQ)
 	  + [停更一周，但它来了](https://mp.weixin.qq.com/s/8gd_FZKOsegNeWnVn-TT2Q)
 	  + [更新，下一次不知道什么时候了](https://mp.weixin.qq.com/s/U12jFQQN5R2-8GONrvSbDA)
@@ -21,6 +22,7 @@
   + 小程序源合集更新：
     + [4月合集](https://mp.weixin.qq.com/s/Uz3OIr8uJWr2xlxz8W8VkA) / [5月合集](https://mp.weixin.qq.com/s/OSHRfwN8r_n0MvD55_CuaQ)
     + [6月合集1](https://netcut.cn/p/3336ad000418d685) / [6月合集2](https://netcut.cn/p/6bcc61972fba9497)
+  + [内容众多的两个规则推荐](https://mp.weixin.qq.com/s/vf9qpAcBf83EHzKPoG6s8w)
   * [两个优质规则分享](https://mp.weixin.qq.com/s/qAxdMPleTw3oJZE1ckRa1Q)
   + [又一重大突破！磁力云播](https://mp.weixin.qq.com/s/00eAqGTUJkSHGunAylh6Kw)
   + [在线云播真的爽！](https://mp.weixin.qq.com/s/2V2JF3XQ6v3xp_ccv1_qPQ)
