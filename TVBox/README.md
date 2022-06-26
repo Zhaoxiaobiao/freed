@@ -1,6 +1,10 @@
 # 2. TV'Box
 * TV'Box｜APP
   + [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
+  + APP下载：
+	+ 好心的大佬，提供已签名可安装的"最新版APK" (实时更新)
+	+ 有下载安装成功的记得帮大佬按右上角的star星星
+	+ [o0HalfLife0o大佬](https://github.com/o0HalfLife0o/TVBoxOSC)
 
 ## 配置地址 简易设定流程：
 * 设置 --> 设置其他  --> 配置地址 (底下二选一)
